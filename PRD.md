@@ -2,7 +2,7 @@
 
 ## 1. 项目背景
 
-NEC（New Energy Coder Club，新能源开发者社区）的 GitHub 组织首页原先使用默认模板，信息展示较为简单，缺乏品牌感和导航入口。为了提升社区在 GitHub 上的专业形象，并方便访客快速了解社区、找到核心仓库和参与方式，需要对组织 profile README 进行全面改造。
+NEC（New Energy Coder Community，新能源开发者社区）的 GitHub 组织首页原先使用默认模板，信息展示较为简单，缺乏品牌感和导航入口。为了提升社区在 GitHub 上的专业形象，并方便访客快速了解社区、找到核心仓库和参与方式，需要对组织 profile README 进行全面改造。
 
 ## 2. 项目目标
 
@@ -122,6 +122,6 @@ NEC（New Energy Coder Club，新能源开发者社区）的 GitHub 组织首页
 
 ## 9. 相关链接
 
-- 组织首页：https://github.com/new-energy-coder-club
+- 组织首页：https://github.com/necc-hub
 - 社区官网：https://www.newenergycoder.club
-- 主仓库：https://github.com/new-energy-coder-club/new_energy_coder_club
+- 主仓库：https://github.com/necc-hub/new_energy_coder_club
